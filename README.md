@@ -101,4 +101,4 @@ git pull origin main
 # Para sugerir novos comandos
 # Abra uma issue no repositório ou faça um PR
 
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+
