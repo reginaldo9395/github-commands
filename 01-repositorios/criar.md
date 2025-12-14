@@ -636,6 +636,8 @@ ${nome} -v
 
 ## 📚 Relacionados
 - [Outro comando](../outra-pasta/comando.md)
+# Use comandos separados
+mkdir 01-repositorios
 
 ---
 *🔖 Tags: git, comando*
