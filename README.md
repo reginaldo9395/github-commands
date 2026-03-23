@@ -6,6 +6,8 @@
 
 | Comando | Categoria | Descrição | Link |
 |---------|-----------|-----------|------|
+git config --global alias.pub '!msg=$(date "+Atualização em %d/%m/%Y %H:%M:%S") && git add . && git commit -m "$msg" && git push origin main'
+| `git config --global alias.pub` | Commits | automatiza todo o fluxo de envio de arquivos para o GitHub | [Ver](#03-commits) |
 | `git init` | Repositórios | Inicializar novo repositório | [Ver](#01-repositórios) |
 | `git clone` | Repositórios | Clonar repositório existente | [Ver](#01-repositórios) |
 | `git add` | Staging | Adicionar arquivos ao staging | [Ver](#04-staging) |
